@@ -1,1 +1,1 @@
-# Cria-o-de-Agents-de-IA-com-o-AI-Foundry-40h
+Criação de Agents de IA com o AI Foundry 40h
